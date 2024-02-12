@@ -1,5 +1,5 @@
 # 3.5 is actually available almost everywhere, but this a good minimum
-cmake_minimum_required(VERSION 3.4)
+cmake_minimum_required(VERSION 3.12)
 project(YAML_CPP VERSION 0.6.3 LANGUAGES CXX)
 
 include(CMakePackageConfigHelpers)
